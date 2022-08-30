@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 
 <h2 align="left" id="macropower-tech">Designation</h2>
 
-> .....Description.
+> Tools that I like to design with.
 
 <table align="center">
   <tr>
@@ -130,4 +130,3 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
-
