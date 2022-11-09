@@ -37,7 +37,7 @@ Here are some ideas to get you started:
       <a href="https://www.javascript.com/">
         <img src="./img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>JavaScript&nbsp;(Core)
+      <br>JavaScript&nbsp;
     </td>
     <td align="center" width="96">
       <a href="https://reactjs.org/">
@@ -81,7 +81,7 @@ Here are some ideas to get you started:
       <a href="https://vitejs.dev/">
         <img src="./img/vitejs.svg" width="48" height="48" alt="ViteJS" />
       </a>
-      <br>ViteJS
+      <br>ViteJS (Core)
     </td>
     <td align="center" width="96">
       <a href="https://prettier.io/">
