@@ -1,24 +1,21 @@
 ### Hi there 👋
 
-<!--
-**hdang09/hdang09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🔭 I’m working at F-Code as Front-end Vice Leader, who teaching ReactJS at the club.
+- 🌱 I’m currently learning Java.
+- 👯 I’m focusing Front-end Development and practicing Frond-end Web Development
+- 🤔 I’m a student of FPT University HCMC
+<!-- - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
+<h3 align="center" id="macropower-tech">Front-end</h3>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -37,7 +34,7 @@ Here are some ideas to get you started:
       <a href="https://www.javascript.com/">
         <img src="./img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
-      <br>JavaScript&nbsp;(Core)
+      <br>JavaScript
     </td>
     <td align="center" width="96">
       <a href="https://reactjs.org/">
@@ -81,7 +78,7 @@ Here are some ideas to get you started:
       <a href="https://vitejs.dev/">
         <img src="./img/vitejs.svg" width="48" height="48" alt="ViteJS" />
       </a>
-      <br>ViteJS
+      <br>ViteJS&nbsp;(Core)
     </td>
     <td align="center" width="96">
       <a href="https://prettier.io/">
@@ -97,6 +94,37 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+<h3 align="center" id="macropower-tech">Back-end</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/c/c_intro.php">
+        <img src="./img/c.svg" width="48" height="48" alt="Photoshop" />
+      </a>
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.java.com/">
+        <img src="./img/java.svg" width="48" height="48" alt="Illustrator" />
+      </a>
+      <br>Java (OOP)
+    </td>
+    <td align="center" width="96">
+      <a href="https://nodejs.org/">
+        <img src="./img/nodejs.svg" width="48" height="48" alt="Canva" />
+      </a>
+      <br>NodeJS (Studying)
+    </td>
+    <!-- <td align="center" width="96">
+      <a href="https://www.microsoft.com/en-us/sql-server">
+        <img src="./img/sql.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br>Microsoft SQL
+    </td> -->
+  </tr>
+</table>
+<!-- ExpressJS, MongoDB, Spring, Firebase -->
 
 <h2 align="left" id="macropower-tech">Designation</h2>
 
