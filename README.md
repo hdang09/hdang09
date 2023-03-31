@@ -135,7 +135,7 @@ Here are some ideas to get you started:
       <a href="https://www.microsoft.com/en-us/sql-server">
         <img src="./img/sql.svg" width="72" height="48" alt="Figma" />
       </a>
-      <br />SQL Server (Studying)
+      <br />SQL Server
     </td>
   </tr>
 </table>
