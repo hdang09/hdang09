@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 > Tools, languages, and other things that I like to work with.
 
 <h3 align="center" id="macropower-tech">Front-end</h3>
-<table align="center">
+<table style="margin: auto;" align="center">
   <tr style="display: flex; justify-content: center;">
     <td align="center" width="96">
       <a href="https://www.w3schools.com/html/">
@@ -110,7 +110,7 @@ Here are some ideas to get you started:
 </table>
 
 <h3 align="center" id="macropower-tech">Back-end</h3>
-<table align="center">
+<table style="margin: auto;" align="center">
   <tr style="display: flex; justify-content: center;">
     <td align="center" width="96">
       <a href="https://www.w3schools.com/c/c_intro.php">
@@ -159,7 +159,7 @@ Here are some ideas to get you started:
 
 > Tools that I like to design with.
 
-<table align="center">
+<table style="margin: auto;" align="center">
   <tr>
     <td align="center" width="96">
       <a href="https://www.adobe.com/vn_en/products/photoshop.html">
