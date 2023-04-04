@@ -113,14 +113,20 @@ Here are some ideas to get you started:
       <br />Java (OOP)
     </td>
     <td align="center" width="96">
+      <a href="https://www.microsoft.com/en-us/sql-server">
+        <img src="./img/sql.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br />SQL Server
+    </td>
+  </tr>
+
+  <tr align="center">
+    <td align="center" width="96">
       <a href="https://nodejs.org/">
         <img src="./img/nodejs.svg" width="48" height="48" alt="Canva" />
       </a>
       <br />NodeJS
     </td>
-  </tr>
-
-  <tr align="center">
     <td align="center" width="96">
       <a href="https://expressjs.com/">
         <img src="./img/expressjs.svg" width="48" height="48" alt="Canva" />
@@ -133,12 +139,7 @@ Here are some ideas to get you started:
       </a>
       <br />MongoDB
     </td>
-    <td align="center" width="96">
-      <a href="https://www.microsoft.com/en-us/sql-server">
-        <img src="./img/sql.svg" width="48" height="48" alt="Figma" />
-      </a>
-      <br />SQL Server
-    </td>
+
   </tr>
 </table>
 
