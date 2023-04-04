@@ -11,24 +11,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<style>
-  table {
-    margin: auto;
-  }
-
-   tr.center {
-    display: flex;
-    justify-content: center;
-  }
-</style>
-
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
 <h3 align="center" id="macropower-tech">Front-end</h3>
-<table style="margin: auto;" align="center">
-  <tr style="display: flex; justify-content: center;">
+<table style="margin: auto" align="center">
+  <tr>
     <td align="center" width="96">
       <a href="https://www.w3schools.com/html/">
         <img src="./img/html.svg" width="48" height="48" alt="HTML" />
@@ -53,9 +42,20 @@ Here are some ideas to get you started:
       </a>
       <br />ReactJS
     </td>
+    <td align="center" width="96">
+      <a href="https://styled-components.com/">
+        <img
+          src="./img/styled-components.svg"
+          width="48"
+          height="48"
+          alt="Styled Components"
+        />
+      </a>
+      <br />Styled Co
+    </td>
   </tr>
 
-  <tr style="display: flex; justify-content: center;">
+  <tr>
     <td align="center" width="96">
       <a href="https://redux.js.org/">
         <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
@@ -80,86 +80,76 @@ Here are some ideas to get you started:
       </a>
       <br />ANT Design
     </td>
-  </tr>
-
-  <tr align="center" style="display: flex; justify-content: center;">
-    <td width="96">
-      <a href="https://nextjs.org/">
-        <img src="./img/nextjs.svg" width="48" height="48" alt="NextJS" />
-      </a>
-      <br />NextJS (Studying)
-    </td>
-    <td width="96">
-      <a href="https://styled-components.com/">
-        <img
-          src="./img/styled-components.svg"
-          width="48"
-          height="48"
-          alt="Styled Components"
-        />
-      </a>
-      <br />Styled Components
-    </td>
-    <td width="96">
+    <td align="center" width="96">
       <a href="https://sass-lang.com/">
         <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
       </a>
       <br />Sass
     </td>
   </tr>
+
+  <!-- <tr align="center">
+    <td width="96">
+      <a href="https://nextjs.org/">
+        <img src="./img/nextjs.svg" width="48" height="48" alt="NextJS" />
+      </a>
+      <br />NextJS (Studying)
+    </td>
+  </tr> -->
 </table>
 
 <h3 align="center" id="macropower-tech">Back-end</h3>
-<table style="margin: auto;" align="center">
-  <tr style="display: flex; justify-content: center;">
+<table align="center">
+  <tr>
     <td align="center" width="96">
       <a href="https://www.w3schools.com/c/c_intro.php">
-        <img src="./img/c.svg" width="72" height="48" alt="Photoshop" />
+        <img src="./img/c.svg" width="48" height="48" alt="Photoshop" />
       </a>
       <br />C
     </td>
     <td align="center" width="96">
       <a href="https://www.java.com/">
-        <img src="./img/java.svg" width="72" height="48" alt="Illustrator" />
+        <img src="./img/java.svg" width="48" height="48" alt="Illustrator" />
       </a>
       <br />Java (OOP)
     </td>
     <td align="center" width="96">
       <a href="https://nodejs.org/">
-        <img src="./img/nodejs.svg" width="72" height="48" alt="Canva" />
+        <img src="./img/nodejs.svg" width="48" height="48" alt="Canva" />
       </a>
       <br />NodeJS
     </td>
+  </tr>
+
+  <tr align="center">
     <td align="center" width="96">
       <a href="https://expressjs.com/">
-        <img src="./img/expressjs.svg" width="72" height="48" alt="Canva" />
+        <img src="./img/expressjs.svg" width="48" height="48" alt="Canva" />
       </a>
       <br />ExpressJS
     </td>
-  </tr>
-  <tr align="center" style="display: flex; justify-content: center;">
-    <td align="center" width="96">
-      <a href="https://www.microsoft.com/en-us/sql-server">
-        <img src="./img/sql.svg" width="72" height="48" alt="Figma" />
-      </a>
-      <br />SQL Server
-    </td>
     <td align="center" width="96">
       <a href="https://www.mongodb.com/">
-        <img src="./img/mongodb.svg" width="72" height="48" alt="Figma" />
+        <img src="./img/mongodb.svg" width="48" height="48" alt="Figma" />
       </a>
       <br />MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.microsoft.com/en-us/sql-server">
+        <img src="./img/sql.svg" width="48" height="48" alt="Figma" />
+      </a>
+      <br />SQL Server
     </td>
   </tr>
 </table>
 
-<!-- MongoDB, Spring, Firebase -->
+<!-- Spring, Firebase -->
 
 <h2 align="left" id="macropower-tech">Designation</h2>
 
 > Tools that I like to design with.
 
-<table style="margin: auto;" align="center">
+<table align="center">
   <tr>
     <td align="center" width="96">
       <a href="https://www.adobe.com/vn_en/products/photoshop.html">
