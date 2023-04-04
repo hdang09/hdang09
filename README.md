@@ -123,19 +123,27 @@ Here are some ideas to get you started:
       <a href="https://nodejs.org/">
         <img src="./img/nodejs.svg" width="72" height="48" alt="Canva" />
       </a>
-      <br />NodeJS (Basic)
+      <br />NodeJS
     </td>
     <td align="center" width="96">
       <a href="https://expressjs.com/">
         <img src="./img/expressjs.svg" width="72" height="48" alt="Canva" />
       </a>
-      <br />ExpressJS (Basic)
+      <br />ExpressJS
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="https://www.microsoft.com/en-us/sql-server">
         <img src="./img/sql.svg" width="72" height="48" alt="Figma" />
       </a>
       <br />SQL Server
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.mongodb.com/">
+        <img src="./img/mongodb.svg" width="72" height="48" alt="Figma" />
+      </a>
+      <br />MongoDB
     </td>
   </tr>
 </table>
