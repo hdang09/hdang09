@@ -17,6 +17,7 @@ Here are some ideas to get you started:
   }
 
    tr.center {
+    display: flex;
     justify-content: center;
   }
 </style>
@@ -27,7 +28,7 @@ Here are some ideas to get you started:
 
 <h3 align="center" id="macropower-tech">Front-end</h3>
 <table align="center">
-  <tr>
+  <tr class="center">
     <td align="center" width="84">
       <a href="https://www.w3schools.com/html/">
         <img src="./img/html.svg" width="48" height="48" alt="HTML" />
@@ -54,7 +55,7 @@ Here are some ideas to get you started:
     </td>
   </tr>
 
-  <tr>
+  <tr class="center">
     <td align="center" width="84">
       <a href="https://redux.js.org/">
         <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
@@ -83,10 +84,10 @@ Here are some ideas to get you started:
 
   <tr align="center" class="center">
     <td width="84">
-      <!-- <a href="https://nextjs.org/">
+      <a href="https://nextjs.org/">
         <img src="./img/nextjs.svg" width="48" height="48" alt="NextJS" />
       </a>
-      <br />NextJS (Studying) -->
+      <br />NextJS (Studying)
     </td>
     <td width="84">
       <a href="https://styled-components.com/">
@@ -97,19 +98,13 @@ Here are some ideas to get you started:
           alt="Styled Components"
         />
       </a>
-      <br />Styled&nbsp;Components
+      <br />Styled Components
     </td>
     <td width="84">
       <a href="https://sass-lang.com/">
         <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
       </a>
       <br />Sass
-    </td>
-    <td width="84">
-      <!-- <a href="https://mui.com/">
-        <img src="./img/mui.png" width="48" height="48" alt="JavaScript" />
-      </a>
-      <br />MUI -->
     </td>
   </tr>
 </table>
