@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -43,15 +42,10 @@ Here are some ideas to get you started:
       <br />ReactJS
     </td>
     <td align="center" width="96">
-      <a href="https://styled-components.com/">
-        <img
-          src="./img/styled-components.svg"
-          width="48"
-          height="48"
-          alt="Styled Components"
-        />
+      <a href="https://sass-lang.com/">
+        <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
       </a>
-      <br />Styled Co
+      <br />Sass
     </td>
   </tr>
 
@@ -81,10 +75,15 @@ Here are some ideas to get you started:
       <br />ANT Design
     </td>
     <td align="center" width="96">
-      <a href="https://sass-lang.com/">
-        <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
+      <a href="https://styled-components.com/">
+        <img
+          src="./img/styled-components.svg"
+          width="48"
+          height="48"
+          alt="Styled Components"
+        />
       </a>
-      <br />Sass
+      <br />Styled Components
     </td>
   </tr>
 
