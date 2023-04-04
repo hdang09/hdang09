@@ -28,26 +28,26 @@ Here are some ideas to get you started:
 
 <h3 align="center" id="macropower-tech">Front-end</h3>
 <table align="center">
-  <tr class="center">
-    <td align="center" width="84">
+  <tr style="display: flex; justify-content: center;">
+    <td align="center" width="96">
       <a href="https://www.w3schools.com/html/">
         <img src="./img/html.svg" width="48" height="48" alt="HTML" />
       </a>
       <br />HTML
     </td>
-    <td align="center" width="84">
+    <td align="center" width="96">
       <a href="https://www.w3schools.com/css/">
         <img src="./img/css.svg" width="48" height="48" alt="CSS" />
       </a>
       <br />CSS
     </td>
-    <td align="center" width="84">
+    <td align="center" width="96">
       <a href="https://www.javascript.com/">
         <img src="./img/js.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br />JavaScript
     </td>
-    <td align="center" width="84">
+    <td align="center" width="96">
       <a href="https://reactjs.org/">
         <img src="./img/reactjs.svg" width="48" height="48" alt="ReactJS" />
       </a>
@@ -55,26 +55,26 @@ Here are some ideas to get you started:
     </td>
   </tr>
 
-  <tr class="center">
-    <td align="center" width="84">
+  <tr style="display: flex; justify-content: center;">
+    <td align="center" width="96">
       <a href="https://redux.js.org/">
         <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br />Redux
     </td>
-    <td align="center" width="84">
+    <td align="center" width="96">
       <a href="https://vitejs.dev/">
         <img src="./img/vitejs.svg" width="48" height="48" alt="ViteJS" />
       </a>
       <br />ViteJS&nbsp;(Core)
     </td>
-    <td align="center" width="84">
+    <td align="center" width="96">
       <a href="https://tailwindcss.com/">
         <img src="./img/tailwind.svg" width="48" height="48" alt="Tailwind" />
       </a>
       <br />Tailwind
     </td>
-    <td align="center" width="84">
+    <td align="center" width="96">
       <a href="https://ant.design/">
         <img src="./img/antd.png" width="48" height="48" alt="ReactJS" />
       </a>
@@ -82,14 +82,14 @@ Here are some ideas to get you started:
     </td>
   </tr>
 
-  <tr align="center" class="center">
-    <td width="84">
+  <tr align="center" style="display: flex; justify-content: center;">
+    <td width="96">
       <a href="https://nextjs.org/">
         <img src="./img/nextjs.svg" width="48" height="48" alt="NextJS" />
       </a>
       <br />NextJS (Studying)
     </td>
-    <td width="84">
+    <td width="96">
       <a href="https://styled-components.com/">
         <img
           src="./img/styled-components.svg"
@@ -100,7 +100,7 @@ Here are some ideas to get you started:
       </a>
       <br />Styled Components
     </td>
-    <td width="84">
+    <td width="96">
       <a href="https://sass-lang.com/">
         <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
       </a>
@@ -111,40 +111,40 @@ Here are some ideas to get you started:
 
 <h3 align="center" id="macropower-tech">Back-end</h3>
 <table align="center">
-  <tr class="center">
-    <td align="center" width="84">
+  <tr style="display: flex; justify-content: center;">
+    <td align="center" width="96">
       <a href="https://www.w3schools.com/c/c_intro.php">
         <img src="./img/c.svg" width="72" height="48" alt="Photoshop" />
       </a>
       <br />C
     </td>
-    <td align="center" width="84">
+    <td align="center" width="96">
       <a href="https://www.java.com/">
         <img src="./img/java.svg" width="72" height="48" alt="Illustrator" />
       </a>
       <br />Java (OOP)
     </td>
-    <td align="center" width="84">
+    <td align="center" width="96">
       <a href="https://nodejs.org/">
         <img src="./img/nodejs.svg" width="72" height="48" alt="Canva" />
       </a>
       <br />NodeJS
     </td>
-    <td align="center" width="84">
+    <td align="center" width="96">
       <a href="https://expressjs.com/">
         <img src="./img/expressjs.svg" width="72" height="48" alt="Canva" />
       </a>
       <br />ExpressJS
     </td>
   </tr>
-  <tr align="center" class="center">
-    <td align="center" width="84">
+  <tr align="center" style="display: flex; justify-content: center;">
+    <td align="center" width="96">
       <a href="https://www.microsoft.com/en-us/sql-server">
         <img src="./img/sql.svg" width="72" height="48" alt="Figma" />
       </a>
       <br />SQL Server
     </td>
-    <td align="center" width="84">
+    <td align="center" width="96">
       <a href="https://www.mongodb.com/">
         <img src="./img/mongodb.svg" width="72" height="48" alt="Figma" />
       </a>
@@ -161,13 +161,13 @@ Here are some ideas to get you started:
 
 <table align="center">
   <tr>
-    <td align="center" width="84">
+    <td align="center" width="96">
       <a href="https://www.adobe.com/vn_en/products/photoshop.html">
         <img src="./img/photoshop.svg" width="48" height="48" alt="Photoshop" />
       </a>
       <br />Photoshop
     </td>
-    <td align="center" width="84">
+    <td align="center" width="96">
       <a href="https://www.adobe.com/vn_en/products/illustrator.html">
         <img
           src="./img/illustrator.svg"
@@ -178,13 +178,13 @@ Here are some ideas to get you started:
       </a>
       <br />Illustrator
     </td>
-    <td align="center" width="84">
+    <td align="center" width="96">
       <a href="https://www.figma.com/">
         <img src="./img/figma.svg" width="48" height="48" alt="Figma" />
       </a>
       <br />Figma
     </td>
-    <td align="center" width="84">
+    <td align="center" width="96">
       <a href="https://www.canva.com/">
         <img src="./img/canva.svg" width="48" height="48" alt="Canva" />
       </a>
