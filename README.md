@@ -4,7 +4,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m working at F-Code as Front-end Vice Leader, who teaching ReactJS at the club.
 - 🌱 I’m currently learning Java.
-- 👯 I’m focusing Front-end Development and practicing Frond-end Web Development
+- 👯 I’m focusing Front-end Development and practicing Back-end Web Development
 - 🤔 I’m a student of FPT University HCMC
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ...
