@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m working at F-Code as Front-end Vice Leader, who teaching ReactJS at the club.
 - 🌱 I’m currently learning Java.
 - 👯 I’m focusing Front-end Development and practicing Back-end Web Development
