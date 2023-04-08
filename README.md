@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Favorite Tech
+## 🔭 Favorite Tech
 
 > Tools, languages, and other things that I like to work with.
 
@@ -148,7 +148,7 @@
 
 <!-- Spring, Firebase -->
 
-## Designation
+## 🎨 Designation
 
 > Tools that I like to design with.
 
