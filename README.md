@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./img/code.gif" width="500">
+</div>
+
 # 💫 About Me:
 
 ### Hi there 👋
