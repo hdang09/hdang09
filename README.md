@@ -186,26 +186,48 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=hdang09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hdang09&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hdang09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hdang09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hdang09&theme=tokyonight&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdang09&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /><br/>
+</div>
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=hdang09&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hdang09&theme=onestar&no-frame=false&no-bg=true&margin-w=4" />
+</div>
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" />
+</div>
 
 ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=hdang09&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=hdang09&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div> -->
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=hdang09&icon=7&color=12)](https://visitcount.itsvg.in)
+## 👀 Profile Views:
+
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=hdang09&icon=7&color=12" />
+</div>
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hdang.09) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/h.dang09/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dang-tran-hai-761024238/)
+<div align="center">
+  <a href="https://www.facebook.com/hdang.09">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/h.dang09/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/dang-tran-hai-761024238/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+</div>
