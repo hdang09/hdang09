@@ -231,7 +231,7 @@
   <a href="https://www.instagram.com/h.dang09/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/dang-tran-hai-761024238/">
+  <a href="https://www.linkedin.com/in/hdang09">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
 </div>
