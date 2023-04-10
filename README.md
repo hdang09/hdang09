@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m working at [F-Code](https://www.facebook.com/fcodefpt) as **Front-end Vice Leader**, who teaching ReactJS at the club.
+- 🔭 I’m working at [F-Code](https://www.facebook.com/fcodefpt) as **Front-end Vice Leader**, who teaches ReactJS at the club.
 - 🌱 I’m currently learning **Java**.
 - 👯 I’m focusing **Front-end Development** and practicing **Back-end Web Development**
 - 🤔 I’m a student of [FPT University HCMC](https://hcmuni.fpt.edu.vn/)
