@@ -75,7 +75,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://ant.design/">
-        <img src="./img/antd.png" width="48" height="48" alt="ReactJS" />
+        <img src="./img/antd.png" width="48" height="48" alt="ANT Design" />
       </a>
       <br />ANT Design
     </td>
@@ -107,25 +107,25 @@
   <tr>
     <td align="center" width="96">
       <a href="https://www.w3schools.com/c/c_intro.php">
-        <img src="./img/c.svg" width="48" height="48" alt="Photoshop" />
+        <img src="./img/c.svg" width="48" height="48" alt="C" />
       </a>
       <br />C
     </td>
     <td align="center" width="96">
       <a href="https://www.java.com/">
-        <img src="./img/java.svg" width="48" height="48" alt="Illustrator" />
+        <img src="./img/java.svg" width="48" height="48" alt="Java" />
       </a>
       <br />Java (OOP)
     </td>
     <td align="center" width="96">
       <a href="https://nodejs.org/">
-        <img src="./img/nodejs.svg" width="48" height="48" alt="Canva" />
+        <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
       </a>
       <br />NodeJS
     </td>
     <td align="center" width="96">
       <a href="https://expressjs.com/">
-        <img src="./img/expressjs.svg" width="48" height="48" alt="Canva" />
+        <img src="./img/expressjs.svg" width="48" height="48" alt="ExpressJS" />
       </a>
       <br />ExpressJS
     </td>
@@ -137,15 +137,21 @@
   <tr>
     <td align="center" width="96">
       <a href="https://www.microsoft.com/en-us/sql-server">
-        <img src="./img/sql.svg" width="48" height="48" alt="Figma" />
+        <img src="./img/sql.svg" width="48" height="48" alt="SQL Server" />
       </a>
       <br />SQL Server
     </td>
     <td align="center" width="96">
       <a href="https://www.mongodb.com/">
-        <img src="./img/mongodb.svg" width="48" height="48" alt="Figma" />
+        <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
       </a>
       <br />MongoDB
+    </td>
+    <td align="center" width="96">
+      <a href="https://firebase.google.com/">
+        <img src="./img/firebase.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br />Firebase
     </td>
   </tr>
 </table>
