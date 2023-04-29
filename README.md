@@ -46,26 +46,26 @@
       </a>
       <br />ReactJS
     </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <a href="https://vitejs.dev/">
+        <img src="./img/vitejs.svg" width="48" height="48" alt="ViteJS" />
+      </a>
+      <br />ViteJS
+    </td>
+    <td align="center" width="96">
+      <a href="https://nextjs.org/">
+        <img src="./img/nextjs.svg" width="48" height="48" alt="NextJS" />
+      </a>
+      <br />NextJS
+    </td>
     <td align="center" width="96">
       <a href="https://sass-lang.com/">
         <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
       </a>
       <br />Sass
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="96">
-      <a href="https://redux.js.org/">
-        <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br />Redux
-    </td>
-    <td align="center" width="96">
-      <a href="https://vitejs.dev/">
-        <img src="./img/vitejs.svg" width="48" height="48" alt="ViteJS" />
-      </a>
-      <br />ViteJS&nbsp;(Core)
     </td>
     <td align="center" width="96">
       <a href="https://tailwindcss.com/">
@@ -73,12 +73,9 @@
       </a>
       <br />Tailwind
     </td>
-    <td align="center" width="96">
-      <a href="https://ant.design/">
-        <img src="./img/antd.png" width="48" height="48" alt="ANT Design" />
-      </a>
-      <br />ANT Design
-    </td>
+  </tr>
+
+  <tr align="center">
     <td align="center" width="96">
       <a href="https://styled-components.com/">
         <img
@@ -90,16 +87,26 @@
       </a>
       <br />Styled Components
     </td>
-  </tr>
-
-  <!-- <tr align="center">
-    <td width="96">
-      <a href="https://nextjs.org/">
-        <img src="./img/nextjs.svg" width="48" height="48" alt="NextJS" />
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com/">
+        <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br />NextJS (Studying)
+      <br />Bootstrap
     </td>
-  </tr> -->
+    <td align="center" width="96">
+      <a href="https://redux.js.org/">
+        <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br />Redux
+    </td>
+    <td align="center" width="96">
+      <a href="https://ant.design/">
+        <img src="./img/antd.svg" width="48" height="48" alt="ANT Design" />
+      </a>
+      <br />ANT Design
+    </td>
+
+  </tr>
 </table>
 
 <h3 align="center" id="macropower-tech">Back-end</h3>
@@ -115,7 +122,7 @@
       <a href="https://www.java.com/">
         <img src="./img/java.svg" width="48" height="48" alt="Java" />
       </a>
-      <br />Java (OOP)
+      <br />Java (JSP,&nbsp;Servlet)
     </td>
     <td align="center" width="96">
       <a href="https://nodejs.org/">
@@ -152,6 +159,12 @@
         <img src="./img/firebase.svg" width="48" height="48" alt="Firebase" />
       </a>
       <br />Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="https://firebase.google.com/">
+        <img src="./img/mysql.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br />MySQL
     </td>
   </tr>
 </table>
