@@ -19,7 +19,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<h3 align="center" id="macropower-tech">Front-end</h3>
+<h3 align="center">Front-end</h3>
 <table style="margin: auto" align="center">
   <tr>
     <td align="center" width="96">
@@ -42,7 +42,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://reactjs.org/">
-        <img src="./img/reactjs.svg" width="48" height="48" alt="ReactJS" />
+        <img src="./img/react.svg" width="48" height="48" alt="ReactJS" />
       </a>
       <br />ReactJS
     </td>
@@ -51,13 +51,13 @@
   <tr>
     <td align="center" width="96">
       <a href="https://vitejs.dev/">
-        <img src="./img/vitejs.svg" width="48" height="48" alt="ViteJS" />
+        <img src="./img/vite.svg" width="48" height="48" alt="ViteJS" />
       </a>
       <br />ViteJS
     </td>
     <td align="center" width="96">
       <a href="https://nextjs.org/">
-        <img src="./img/nextjs.svg" width="48" height="48" alt="NextJS" />
+        <img src="./img/next.svg" width="48" height="48" alt="NextJS" />
       </a>
       <br />NextJS
     </td>
@@ -109,7 +109,7 @@
   </tr>
 </table>
 
-<h3 align="center" id="macropower-tech">Back-end</h3>
+<h3 align="center">Back-end</h3>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -139,7 +139,7 @@
   </tr>
 </table>
 
-<h3 align="center" id="macropower-tech">Database</h3>
+<h3 align="center">Database</h3>
 <table align="center">
   <tr>
     <td align="center" width="96">
