@@ -136,7 +136,7 @@
       <a href="https://www.java.com/">
         <img src="./img/java.svg" width="48" height="48" alt="Java" />
       </a>
-      <br />Java (JSP,&nbsp;Servlet)
+      <br />Java
     </td>
     <td align="center" width="96">
       <a href="https://spring.io/">
@@ -183,7 +183,35 @@
   </tr>
 </table>
 
-<!-- Spring, Firebase -->
+<h3 align="center">System & DevOps</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.linux.org/">
+        <img src="./img/linux.svg" width="48" height="48" alt="Linux" />
+      </a>
+      <br />Linux
+    </td>
+    <td align="center" width="96">
+      <a href="https://aws.amazon.com/lightsail/">
+        <img src="./img/lightsail.svg" width="48" height="48" alt="Lightsail" />
+      </a>
+      <br />Lightsail
+    </td>
+    <td align="center" width="96">
+      <a href="https://about.gitlab.com/">
+        <img src="./img/gitlab.svg" width="48" height="48" alt="GitLab" />
+      </a>
+      <br />GitLab
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.docker.com/">
+        <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br />Docker
+    </td>
+  </tr>
+</table>
 
 ## 🎨 Designation
 
