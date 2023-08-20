@@ -199,16 +199,16 @@
       <br />Lightsail
     </td>
     <td align="center" width="96">
-      <a href="https://about.gitlab.com/">
-        <img src="./img/gitlab.svg" width="48" height="48" alt="GitLab" />
-      </a>
-      <br />GitLab
-    </td>
-    <td align="center" width="96">
       <a href="https://www.docker.com/">
         <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <br />Docker
+    </td>
+    <td align="center" width="96">
+      <a href="https://github.com/features/actions">
+        <img src="./img/github-actions.svg" width="48" height="48" alt="GitHub Actions" />
+      </a>
+      <br />GitHub Actions
     </td>
   </tr>
 </table>
