@@ -19,6 +19,42 @@
 
 > Tools, languages, and other things that I like to work with.
 
+<h3 align="center">Programming Language</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.w3schools.com/c/c_intro.php">
+        <img src="./img/c.svg" width="48" height="48" alt="C" />
+      </a>
+      <br />C
+    </td>
+    <td align="center" width="96">
+      <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+        <img src="./img/c-sharp.svg" width="48" height="48" alt="C#" />
+      </a>
+      <br />C#
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.java.com/">
+        <img src="./img/java.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br />Java
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.javascript.com/">
+        <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+      <br />JavaScript
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.typescriptlang.org/">
+        <img src="./img/typescript.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+      <br />TypeScript
+    </td>
+  </tr>
+</table>
+
 <h3 align="center">Front-end</h3>
 <table style="margin: auto" align="center">
   <tr>
@@ -36,7 +72,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://www.javascript.com/">
-        <img src="./img/js.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/javascript.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br />JavaScript
     </td>
@@ -112,12 +148,6 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://www.w3schools.com/c/c_intro.php">
-        <img src="./img/c.svg" width="48" height="48" alt="C" />
-      </a>
-      <br />C
-    </td>
-    <td align="center" width="96">
       <a href="https://nodejs.org/">
         <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
       </a>
@@ -129,26 +159,23 @@
       </a>
       <br />ExpressJS
     </td>
-  </tr>
-  
-  <tr>
-    <td align="center" width="96">
-      <a href="https://www.java.com/">
-        <img src="./img/java.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br />Java
-    </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="https://spring.io/">
         <img src="./img/spring.svg" width="48" height="48" alt="Spring" />
       </a>
       <br />Spring
-    </td>
+    </td> -->
     <td align="center" width="96">
       <a href="https://spring.io/projects/spring-boot">
         <img src="./img/spring-boot.png" width="48" height="48" alt="Spring Boot" />
       </a>
       <br />Spring Boot
+    </td>
+    <td align="center" width="96">
+      <a href="https://dotnet.microsoft.com/en-us/">
+        <img src="./img/dotnet.svg" width="48" height="48" alt="Spring Boot" />
+      </a>
+      <br />.NET
     </td>
   </tr>
 </table>
