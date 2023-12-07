@@ -8,7 +8,7 @@
 
 - 🔭 I’m working at [F-Code](https://www.facebook.com/fcodefpt) as **Front-end Vice Leader**, who teaches ReactJS at the club.
 - 🌱 I’m currently learning **Java**.
-- 👯 I’m focusing **Front-end Development** and practicing **Back-end Web Development**
+- 👯 I’m focusing **Front-end Development**, **Back-end Development** and practicing **DevOps**
 - 🤔 I’m a student of [FPT University HCMC](https://hcmuni.fpt.edu.vn/)
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -19,7 +19,7 @@
 
 > Tools, languages, and other things that I like to work with.
 
-<h3 align="center">Programming Language</h3>
+<h3 align="center">Programming Languages</h3>
 <table align="center">
   <tr>
     <td align="center" width="96">
@@ -78,25 +78,40 @@
     </td>
     <td align="center" width="96">
       <a href="https://reactjs.org/">
-        <img src="./img/react.svg" width="48" height="48" alt="ReactJS" />
+        <img src="./img/react.svg" width="48" height="48" alt="React" />
       </a>
-      <br />ReactJS
+      <br />React
     </td>
   </tr>
 
   <tr>
     <td align="center" width="96">
-      <a href="https://vitejs.dev/">
-        <img src="./img/vite.svg" width="48" height="48" alt="ViteJS" />
+      <a href="https://preactjs.com/">
+        <img src="./img/preact.svg" width="48" height="48" alt="Preact" />
       </a>
-      <br />ViteJS
+      <br />Preact
+    </td>
+    <td align="center" width="96">
+      <a href="https://vitejs.dev/">
+        <img src="./img/vite.svg" width="48" height="48" alt="Vite" />
+      </a>
+      <br />Vite
     </td>
     <td align="center" width="96">
       <a href="https://nextjs.org/">
-        <img src="./img/next.svg" width="48" height="48" alt="NextJS" />
+        <img src="./img/next.svg" width="48" height="48" alt="Next.js" />
       </a>
-      <br />NextJS
+      <br />Next.js
     </td>
+    <td align="center" width="96">
+      <a href="https://redux.js.org/">
+        <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br />Redux
+    </td>
+  </tr>
+
+  <tr align="center">
     <td align="center" width="96">
       <a href="https://sass-lang.com/">
         <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
@@ -105,13 +120,10 @@
     </td>
     <td align="center" width="96">
       <a href="https://tailwindcss.com/">
-        <img src="./img/tailwind.svg" width="48" height="48" alt="Tailwind" />
+        <img src="./img/tailwind.svg" width="48" height="48" alt="Tailwind CSS" />
       </a>
-      <br />Tailwind
+      <br />Tailwind CSS
     </td>
-  </tr>
-
-  <tr align="center">
     <td align="center" width="96">
       <a href="https://styled-components.com/">
         <img
@@ -124,22 +136,10 @@
       <br />Styled Components
     </td>
     <td align="center" width="96">
-      <a href="https://getbootstrap.com/">
-        <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
-      </a>
-      <br />Bootstrap
-    </td>
-    <td align="center" width="96">
-      <a href="https://redux.js.org/">
-        <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br />Redux
-    </td>
-    <td align="center" width="96">
       <a href="https://ant.design/">
-        <img src="./img/antd.svg" width="48" height="48" alt="ANT Design" />
+        <img src="./img/antd.svg" width="48" height="48" alt="Ant Design" />
       </a>
-      <br />ANT Design
+      <br />Ant Design
     </td>
   </tr>
 </table>
@@ -147,7 +147,7 @@
 <h3 align="center">Back-end</h3>
 <table align="center">
   <tr>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="https://nodejs.org/">
         <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
       </a>
@@ -158,13 +158,13 @@
         <img src="./img/expressjs.svg" width="48" height="48" alt="ExpressJS" />
       </a>
       <br />ExpressJS
-    </td>
-    <!-- <td align="center" width="96">
+    </td> -->
+    <td align="center" width="96">
       <a href="https://spring.io/">
         <img src="./img/spring.svg" width="48" height="48" alt="Spring" />
       </a>
       <br />Spring
-    </td> -->
+    </td>
     <td align="center" width="96">
       <a href="https://spring.io/projects/spring-boot">
         <img src="./img/spring-boot.png" width="48" height="48" alt="Spring Boot" />
@@ -184,6 +184,12 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
+      <a href="https://firebase.google.com/">
+        <img src="./img/mysql.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br />MySQL
+    </td>
+    <td align="center" width="96">
       <a href="https://www.microsoft.com/en-us/sql-server">
         <img src="./img/sql.svg" width="48" height="48" alt="SQL Server" />
       </a>
@@ -200,12 +206,6 @@
         <img src="./img/firebase.svg" width="48" height="48" alt="Firebase" />
       </a>
       <br />Firebase
-    </td>
-    <td align="center" width="96">
-      <a href="https://firebase.google.com/">
-        <img src="./img/mysql.svg" width="48" height="48" alt="MySQL" />
-      </a>
-      <br />MySQL
     </td>
   </tr>
 </table>
