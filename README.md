@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m working at [F-Code](https://www.facebook.com/fcodefpt) as **Front-end Vice Leader**, who teaches ReactJS at the club.
+- 🔭 I’m working at [F-Code](https://www.facebook.com/fcodefpt) as **Front-end Vice Leader**, who teaches React at the club.
 - 🌱 I’m currently learning **Java**.
 - 👯 I’m focusing **Front-end Development**, **Back-end Development** and practicing **DevOps**
 - 🤔 I’m a student of [FPT University HCMC](https://hcmuni.fpt.edu.vn/)
@@ -122,7 +122,7 @@
       <a href="https://tailwindcss.com/">
         <img src="./img/tailwind.svg" width="48" height="48" alt="Tailwind CSS" />
       </a>
-      <br />Tailwind CSS
+      <br />Tailwind
     </td>
     <td align="center" width="96">
       <a href="https://styled-components.com/">
@@ -142,6 +142,33 @@
       <br />Ant Design
     </td>
   </tr>
+
+  <!-- <tr align="center">
+    <td align="center" width="96">
+      <a href="https://redux.js.org/">
+        <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
+      </a>
+      <br />Redux
+    </td>
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com/">
+        <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br />Bootstrap
+    </td>
+    <td align="center" width="96">
+      <a href="https://prettier.io">
+        <img src="./img/prettier.svg" width="48" height="48" alt="Prettier" />
+      </a>
+      <br />Prettier
+    </td>
+    <td align="center" width="96">
+      <a href="https://eslint.org">
+        <img src="./img/eslint.svg" width="48" height="48" alt="Eslint" />
+      </a>
+      <br />Eslint
+    </td>
+  </tr> -->
 </table>
 
 <h3 align="center">Back-end</h3>
@@ -170,6 +197,12 @@
         <img src="./img/spring-boot.png" width="48" height="48" alt="Spring Boot" />
       </a>
       <br />Spring Boot
+    </td>
+    <td align="center" width="96">
+      <a href="https://hibernate.org/">
+        <img src="./img/hibernate.svg" width="48" height="48" alt="Hibernate" />
+      </a>
+      <br />Hibernate
     </td>
     <td align="center" width="96">
       <a href="https://dotnet.microsoft.com/en-us/">
@@ -214,19 +247,19 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://www.linux.org/">
+      <a href="https://www.linux.org">
         <img src="./img/linux.svg" width="48" height="48" alt="Linux" />
       </a>
       <br />Linux
     </td>
     <td align="center" width="96">
-      <a href="https://aws.amazon.com/lightsail/">
+      <a href="https://aws.amazon.com/lightsail">
         <img src="./img/lightsail.svg" width="48" height="48" alt="Lightsail" />
       </a>
       <br />Lightsail
     </td>
     <td align="center" width="96">
-      <a href="https://www.docker.com/">
+      <a href="https://www.docker.com">
         <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <br />Docker
@@ -236,6 +269,33 @@
         <img src="./img/github-actions.svg" width="48" height="48" alt="GitHub Actions" />
       </a>
       <br />GitHub Actions
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="96">
+      <a href="https://www.heroku.com">
+        <img src="./img/heroku.svg" width="48" height="48" alt="Heroku" />
+      </a>
+      <br />Heroku
+    </td>
+    <td align="center" width="96">
+      <a href="https://azure.microsoft.com/">
+        <img src="./img/azure.svg" width="48" height="48" alt="Azure" />
+      </a>
+      <br />Azure
+    </td>
+    <td align="center" width="96">
+      <a href="https://fly.io">
+        <img src="./img/fly-io.svg" width="48" height="48" alt="Fly.io" />
+      </a>
+      <br />Fly.io
+    </td>
+    <td align="center" width="96">
+      <a href="https://render.com">
+        <img src="./img/render.svg" width="48" height="48" alt="Render" />
+      </a>
+      <br />Render
     </td>
   </tr>
 </table>
