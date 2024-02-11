@@ -104,10 +104,10 @@
       <br />Next.js
     </td>
     <td align="center" width="96">
-      <a href="https://redux.js.org/">
-        <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
+      <a href="https://angular.dev/">
+        <img src="./img/angular.svg" width="48" height="48" alt="Redux" />
       </a>
-      <br />Redux
+      <br />Angular
     </td>
   </tr>
 
@@ -174,18 +174,6 @@
 <h3 align="center">Back-end</h3>
 <table align="center">
   <tr>
-    <!-- <td align="center" width="96">
-      <a href="https://nodejs.org/">
-        <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
-      </a>
-      <br />NodeJS
-    </td>
-    <td align="center" width="96">
-      <a href="https://expressjs.com/">
-        <img src="./img/expressjs.svg" width="48" height="48" alt="ExpressJS" />
-      </a>
-      <br />ExpressJS
-    </td> -->
     <td align="center" width="96">
       <a href="https://spring.io/">
         <img src="./img/spring.svg" width="48" height="48" alt="Spring" />
@@ -211,6 +199,33 @@
       <br />.NET
     </td>
   </tr>
+
+  <!-- <tr>
+    <td align="center" width="96">
+      <a href="https://nodejs.org/">
+        <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br />NodeJS
+    </td>
+    <td align="center" width="96">
+      <a href="https://expressjs.com/">
+        <img src="./img/expressjs.svg" width="48" height="48" alt="ExpressJS" />
+      </a>
+      <br />ExpressJS
+    </td>
+    <td align="center" width="96">
+      <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
+        <img src="./img/socket.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br />WebSocket
+    </td>
+    <td align="center" width="96">
+      <a href="https://expressjs.com/">
+        <img src="./img/asp-dotnet.svg" width="48" height="48" alt="ExpressJS" />
+      </a>
+      <br />ASP.NET
+    </td>
+  </tr> -->
 </table>
 
 <h3 align="center">Database</h3>
@@ -253,16 +268,16 @@
       <br />Linux
     </td>
     <td align="center" width="96">
-      <a href="https://aws.amazon.com/lightsail">
-        <img src="./img/lightsail.svg" width="48" height="48" alt="Lightsail" />
-      </a>
-      <br />Lightsail
-    </td>
-    <td align="center" width="96">
       <a href="https://www.docker.com">
         <img src="./img/docker.svg" width="48" height="48" alt="Docker" />
       </a>
       <br />Docker
+    </td>
+    <td align="center" width="96">
+      <a href="https://aws.amazon.com/lightsail">
+        <img src="./img/lightsail.svg" width="48" height="48" alt="Lightsail" />
+      </a>
+      <br />AWS Lightsail
     </td>
     <td align="center" width="96">
       <a href="https://github.com/features/actions">
