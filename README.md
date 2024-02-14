@@ -104,10 +104,10 @@
       <br />Next.js
     </td>
     <td align="center" width="96">
-      <a href="https://angular.dev/">
-        <img src="./img/angular.svg" width="48" height="48" alt="Redux" />
+      <a href="https://getbootstrap.com/">
+        <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
       </a>
-      <br />Angular
+      <br />Bootstrap
     </td>
   </tr>
 
@@ -151,10 +151,10 @@
       <br />Redux
     </td>
     <td align="center" width="96">
-      <a href="https://getbootstrap.com/">
-        <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+      <a href="https://angular.dev/">
+        <img src="./img/angular.svg" width="48" height="48" alt="Redux" />
       </a>
-      <br />Bootstrap
+      <br />Angular
     </td>
     <td align="center" width="96">
       <a href="https://prettier.io">
@@ -232,7 +232,7 @@
 <table align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://firebase.google.com/">
+      <a href="https://www.mysql.com/">
         <img src="./img/mysql.svg" width="48" height="48" alt="MySQL" />
       </a>
       <br />MySQL
@@ -243,7 +243,7 @@
       </a>
       <br />SQL Server
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <a href="https://www.mongodb.com/">
         <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
       </a>
@@ -254,7 +254,7 @@
         <img src="./img/firebase.svg" width="48" height="48" alt="Firebase" />
       </a>
       <br />Firebase
-    </td>
+    </td> -->
   </tr>
 </table>
 
