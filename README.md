@@ -6,8 +6,9 @@
 
 ### Hi there 👋
 
-- 🔭 I’m working at [F-Code](https://www.facebook.com/fcodefpt) as **Front-end Vice Leader**, who teaches React at the club.
-- 🌱 I’m currently learning **Java**.
+<!-- - 🔭 I’m working at [F-Code](https://www.facebook.com/fcodefpt) as **Front-end Vice Leader**, who teaches React at the club. -->
+
+- 🌱 I’m currently learning **ASP .NET**.
 - 👯 I’m focusing **Front-end Development**, **Back-end Development** and practicing **DevOps**
 - 🤔 I’m a student of [FPT University HCMC](https://hcmuni.fpt.edu.vn/)
 <!-- - 💬 Ask me about ...
@@ -104,10 +105,10 @@
       <br />Next.js
     </td>
     <td align="center" width="96">
-      <a href="https://getbootstrap.com/">
-        <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+      <a href="https://angular.dev/">
+        <img src="./img/angular.svg" width="48" height="48" alt="Redux" />
       </a>
-      <br />Bootstrap
+      <br />Angular
     </td>
   </tr>
 
@@ -168,6 +169,12 @@
       </a>
       <br />Eslint
     </td>
+    <td align="center" width="96">
+      <a href="https://getbootstrap.com/">
+        <img src="./img/bootstrap.svg" width="48" height="48" alt="Bootstrap" />
+      </a>
+      <br />Bootstrap
+    </td>
   </tr> -->
 </table>
 
@@ -176,9 +183,9 @@
   <tr>
     <td align="center" width="96">
       <a href="https://spring.io/">
-        <img src="./img/spring.svg" width="48" height="48" alt="Spring" />
+        <img src="./img/spring.svg" width="48" height="48" alt="Spring MVC" />
       </a>
-      <br />Spring
+      <br />Spring MVC
     </td>
     <td align="center" width="96">
       <a href="https://spring.io/projects/spring-boot">
@@ -187,20 +194,27 @@
       <br />Spring Boot
     </td>
     <td align="center" width="96">
+      <a href="https://dotnet.microsoft.com/en-us/">
+        <img src="./img/dotnet.svg" width="48" height="48" alt=".NET" />
+      </a>
+      <br />.NET
+    </td>
+    <td align="center" width="96">
+      <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
+        <img src="./img/asp-dotnet.svg" width="48" height="48" alt="ASP .NET MVC" />
+      </a>
+      <br />ASP .NET MVC
+    </td>
+  </tr>
+
+  <!-- <tr>
+    <td align="center" width="96">
       <a href="https://hibernate.org/">
         <img src="./img/hibernate.svg" width="48" height="48" alt="Hibernate" />
       </a>
       <br />Hibernate
     </td>
-    <td align="center" width="96">
-      <a href="https://dotnet.microsoft.com/en-us/">
-        <img src="./img/dotnet.svg" width="48" height="48" alt="Spring Boot" />
-      </a>
-      <br />.NET
-    </td>
-  </tr>
-
-  <!-- <tr>
+    
     <td align="center" width="96">
       <a href="https://nodejs.org/">
         <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
@@ -243,6 +257,12 @@
       </a>
       <br />SQL Server
     </td>
+    <td align="center" width="96">
+      <a href="https://www.postgresql.org/">
+        <img src="./img/postgresql.svg" width="48" height="48" alt="PostgreSQL" />
+      </a>
+      <br />PostgreSQL
+    </td>
     <!-- <td align="center" width="96">
       <a href="https://www.mongodb.com/">
         <img src="./img/mongodb.svg" width="48" height="48" alt="MongoDB" />
@@ -279,15 +299,15 @@
       </a>
       <br />AWS Lightsail
     </td>
+  </tr>
+
+  <tr>
     <td align="center" width="96">
       <a href="https://github.com/features/actions">
         <img src="./img/github-actions.svg" width="48" height="48" alt="GitHub Actions" />
       </a>
       <br />GitHub Actions
     </td>
-  </tr>
-
-  <tr>
     <td align="center" width="96">
       <a href="https://www.heroku.com">
         <img src="./img/heroku.svg" width="48" height="48" alt="Heroku" />
@@ -300,6 +320,9 @@
       </a>
       <br />Azure
     </td>
+  </tr>
+  
+  <tr>
     <td align="center" width="96">
       <a href="https://fly.io">
         <img src="./img/fly-io.svg" width="48" height="48" alt="Fly.io" />
@@ -311,6 +334,12 @@
         <img src="./img/render.svg" width="48" height="48" alt="Render" />
       </a>
       <br />Render
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.digitalocean.com">
+        <img src="./img/digitalocean.svg" width="48" height="48" alt="DigitalOcean" />
+      </a>
+      <br />DigitalOcean
     </td>
   </tr>
 </table>
