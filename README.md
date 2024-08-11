@@ -12,7 +12,7 @@
 - 👯 I’m focusing **Front-end, Back-end Development** and practicing **DevOps**
 - 🤔 I’m a student of [FPT University HCMC](https://hcmuni.fpt.edu.vn/)
 - ⚡ Portfolio: [hdang09.tech](https://hdang09.tech/)
-- 📫 How to reach me: [contact@hdang09.tech](contact@hdang09.tech)
+- 📫 How to reach me: [contact@hdang09.tech](mailto:contact@hdang09.tech)
 <!-- - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
