@@ -8,11 +8,11 @@
 
 <!-- - 🔭 I’m working at [F-Code](https://www.facebook.com/fcodefpt) as **Front-end Vice Leader**, who teaches React at the club. -->
 
-- 🌱 I’m currently learning **ASP .NET**.
-- 👯 I’m focusing **Front-end Development**, **Back-end Development** and practicing **DevOps**
+- 🌱 I’m currently learning **ASP.NET Core Web API**, **Angular**.
+- 👯 I’m focusing **Front-end, Back-end Development** and practicing **DevOps**
 - 🤔 I’m a student of [FPT University HCMC](https://hcmuni.fpt.edu.vn/)
+- 📫 How to reach me: [hdang09.tech](https://hdang09.tech/)
 <!-- - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
@@ -113,6 +113,12 @@
   </tr>
 
   <tr align="center">
+  <td align="center" width="96">
+      <a href="https://tailwindcss.com/">
+        <img src="./img/tailwind.svg" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+      <br />TailwindCSS
+    </td>
     <td align="center" width="96">
       <a href="https://sass-lang.com/">
         <img src="./img/sass.svg" width="48" height="48" alt="Sass" />
@@ -120,21 +126,15 @@
       <br />Sass
     </td>
     <td align="center" width="96">
-      <a href="https://tailwindcss.com/">
-        <img src="./img/tailwind.svg" width="48" height="48" alt="Tailwind CSS" />
-      </a>
-      <br />Tailwind
-    </td>
-    <td align="center" width="96">
       <a href="https://styled-components.com/">
         <img
           src="./img/styled-components.svg"
           width="48"
           height="48"
-          alt="Styled Components"
+          alt="styled-components"
         />
       </a>
-      <br />Styled Components
+      <br />styled-components
     </td>
     <td align="center" width="96">
       <a href="https://ant.design/">
@@ -150,12 +150,6 @@
         <img src="./img/redux.svg" width="48" height="48" alt="Redux" />
       </a>
       <br />Redux
-    </td>
-    <td align="center" width="96">
-      <a href="https://angular.dev/">
-        <img src="./img/angular.svg" width="48" height="48" alt="Redux" />
-      </a>
-      <br />Angular
     </td>
     <td align="center" width="96">
       <a href="https://prettier.io">
@@ -197,13 +191,13 @@
       <a href="https://dotnet.microsoft.com/en-us/">
         <img src="./img/dotnet.svg" width="48" height="48" alt=".NET" />
       </a>
-      <br />.NET
+      <br />.NET Winform
     </td>
     <td align="center" width="96">
       <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
         <img src="./img/asp-dotnet.svg" width="48" height="48" alt="ASP .NET MVC" />
       </a>
-      <br />ASP .NET MVC
+      <br />ASP .NET Core
     </td>
   </tr>
 
@@ -214,7 +208,12 @@
       </a>
       <br />Hibernate
     </td>
-    
+    <td align="center" width="96">
+      <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
+        <img src="./img/socket.svg" width="48" height="48" alt="NodeJS" />
+      </a>
+      <br />WebSocket
+    </td>
     <td align="center" width="96">
       <a href="https://nodejs.org/">
         <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
@@ -232,12 +231,6 @@
         <img src="./img/socket.svg" width="48" height="48" alt="NodeJS" />
       </a>
       <br />WebSocket
-    </td>
-    <td align="center" width="96">
-      <a href="https://expressjs.com/">
-        <img src="./img/asp-dotnet.svg" width="48" height="48" alt="ExpressJS" />
-      </a>
-      <br />ASP.NET
     </td>
   </tr> -->
 </table>
