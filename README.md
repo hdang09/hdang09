@@ -197,7 +197,7 @@
       <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
         <img src="./img/asp-dotnet.svg" width="48" height="48" alt="ASP .NET MVC" />
       </a>
-      <br />ASP .NET Core
+      <br />ASP.NET MVC/API
     </td>
   </tr>
 
