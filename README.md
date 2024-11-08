@@ -6,13 +6,13 @@
 
 ### Hi there 👋
 
-<!-- - 🔭 I’m working at [F-Code](https://www.facebook.com/fcodefpt) as **Front-end Vice Leader**, who teaches React at the club. -->
-
-- 🌱 I’m currently learning **ASP.NET Core Web API**, **Angular**.
+- 🎈 I’m currently a **Junior Developer** at [FPT Software](https://fptsoftware.com/) experience in: Java Spring Boot, Angular, Node.js/Express.
+- 🔭 I’m working at [F-Code](https://www.facebook.com/fcodefpt) as **Front-end Vice Leader**, who teaches React at the club.
+- 🌱 I’m currently learning **Node.js**, **Express**.
 - 👯 I’m focusing **Front-end, Back-end Development** and practicing **DevOps**
-- 🤔 I’m a student of [FPT University HCMC](https://hcmuni.fpt.edu.vn/)
-- ⚡ Portfolio: [hdang09.tech](https://hdang09.tech/)
-- 📫 How to reach me: [contact@hdang09.tech](mailto:contact@hdang09.tech)
+- 🤔 I’m a final-year student of [FPT University HCMC](https://hcmuni.fpt.edu.vn/)
+- ⚡ Portfolio: [hdang09.me](https://hdang09.me/)
+- 📫 How to reach me: [hdang09.work@gmail.com](mailto:hdang09.work@gmail.com)
 <!-- - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
@@ -189,16 +189,22 @@
       <br />Spring Boot
     </td>
     <td align="center" width="96">
-      <a href="https://dotnet.microsoft.com/en-us/">
-        <img src="./img/dotnet.svg" width="48" height="48" alt=".NET" />
+      <a href="https://nodejs.org/">
+        <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
       </a>
-      <br />.NET Winform
+      <br />Node.js
+    </td>
+    <td align="center" width="96">
+      <a href="https://expressjs.com/">
+        <img src="./img/expressjs.svg" width="48" height="48" alt="ExpressJS" />
+      </a>
+      <br />Express
     </td>
     <td align="center" width="96">
       <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
         <img src="./img/asp-dotnet.svg" width="48" height="48" alt="ASP .NET MVC" />
       </a>
-      <br />ASP.NET MVC/API
+      <br />ASP.NET Core
     </td>
   </tr>
 
@@ -216,22 +222,16 @@
       <br />WebSocket
     </td>
     <td align="center" width="96">
-      <a href="https://nodejs.org/">
-        <img src="./img/nodejs.svg" width="48" height="48" alt="NodeJS" />
-      </a>
-      <br />NodeJS
-    </td>
-    <td align="center" width="96">
-      <a href="https://expressjs.com/">
-        <img src="./img/expressjs.svg" width="48" height="48" alt="ExpressJS" />
-      </a>
-      <br />ExpressJS
-    </td>
-    <td align="center" width="96">
-      <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
+      <a href="https://socket.io/">
         <img src="./img/socket.svg" width="48" height="48" alt="NodeJS" />
       </a>
       <br />WebSocket
+    </td>
+    <td align="center" width="96">
+      <a href="https://dotnet.microsoft.com/en-us/">
+        <img src="./img/dotnet.svg" width="48" height="48" alt=".NET" />
+      </a>
+      <br />.NET Winform
     </td>
   </tr> -->
 </table>
