@@ -8,7 +8,6 @@
 
 - 🎈 I’m currently a **Junior Developer** at [FPT Software](https://fptsoftware.com/) experience in: Java Spring Boot, Angular, Node.js/Express.
 - 🔭 I’m working at [F-Code](https://www.facebook.com/fcodefpt) as **Front-end Vice Leader**, who teaches React at the club.
-- 🌱 I’m currently learning **Node.js**, **Express**.
 - 👯 I’m focusing **Front-end, Back-end Development** and practicing **DevOps**
 - 🤔 I’m a final-year student of [FPT University HCMC](https://hcmuni.fpt.edu.vn/)
 - ⚡ Portfolio: [hdang09.me](https://hdang09.me/)
@@ -16,6 +15,7 @@
 <!-- - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
+<!-- - 🌱 I’m currently learning **Node.js**, **Express**. -->
 
 ## 🔭 Favorite Tech
 
@@ -204,7 +204,7 @@
       <a href="https://dotnet.microsoft.com/en-us/apps/aspnet">
         <img src="./img/asp-dotnet.svg" width="48" height="48" alt="ASP .NET MVC" />
       </a>
-      <br />ASP.NET Core
+      <br />ASP.NET Web API
     </td>
   </tr>
 
